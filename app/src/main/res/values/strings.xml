@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab exam 03</string>
+    <string name="home">Home</string>
+    <string name="board">Board</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">profile</string>
+    <string name="try_your_luck_nto_get_more_score">Try your luck\nTo get more SCORE</string>
+    <string name="try_it_now">Try it now</string>
+    <string name="art">Art</string>
+    <string name="sports">Sports</string>
+    <string name="history">History</string>
+    <string name="science">Science</string>
+    <string name="see_all">See All</string>
+    <string name="quiz_categories">Quiz Categories</string>
+    <string name="multi_player">Multi player</string>
+    <string name="single_player">Single player</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="hi_alex">Hi, Alex</string>
+    <string name="_2150">2150</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="all_time">All time</string>
+    <string name="_3">3</string>
+    <string name="title">title</string>
+    <string name="_00000">00000</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+</resources>
